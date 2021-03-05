@@ -1,13 +1,13 @@
 {
   "name": "@ddatabase/streams",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "External implementation of a WriteStream and ReadStream for dDatabase",
   "main": "index.js",
   "dependencies": {
     "streamx": "^2.6.0"
   },
   "devDependencies": {
-    "ddatabase": "^9.6.0",
+    "ddatabase": "^10.0.0",
     "random-access-memory": "^3.1.1",
     "standard": "^14.3.4",
     "tape": "^5.0.1"
